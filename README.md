@@ -50,6 +50,6 @@ Created an agent, "Jane Doe", allowed the agent access to tickets assigned to th
 <img src="https://i.imgur.com/AdBLpnY.jpg"="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configured Service Level Agreements into 3 groups. SEV-A with a 1 hour grace period, 24/7. SEV-B with a 4 hour grace period, 24/7. SEV-C with an 8 hour grace period for normal business hours.
 </p>
 <br />
