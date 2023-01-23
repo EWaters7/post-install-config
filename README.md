@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/5Ak0h2D.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As an Administrator I configured roles to agents and unlocked permissions for them to do certain tasks as agents on tickets.
+As an Administrator I configured roles to agents and unlocked permissions for them to do certain tasks on tickets.
 </p>
 <br />
 
