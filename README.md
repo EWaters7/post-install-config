@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configure roles as an Administrator
 - Configure Departments and Teams
-- Item 3
+- Configure Service Level Agreements
 - Item 4
 - Item 5
 
@@ -47,7 +47,7 @@ Created an agent, "Jane Doe", allowed the agent access to tickets assigned to th
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AdBLpnY.jpg"="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
