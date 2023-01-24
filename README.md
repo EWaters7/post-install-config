@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure roles as an Administrator
 - Configure Departments and Teams
 - Configure Service Level Agreements
-- Item 4
+- Configure Help
 - Item 5
 
 <h2>Configuration Steps</h2>
