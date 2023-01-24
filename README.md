@@ -25,8 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure roles as an Administrator
 - Configure Departments and Teams
 - Configure Service Level Agreements
-- Configure Help
-- Item 5
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -58,6 +57,6 @@ Configured Service Level Agreements into 3 groups. SEV-A with a 1 hour grace per
 <img src="https://i.imgur.com/FnJ8gZk.jpg"="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configured Service Level Agreements into 3 groups. SEV-A with a 1 hour grace period, 24/7. SEV-B with a 4 hour grace period, 24/7. SEV-C with an 8 hour grace period for normal business hours.
+Configured Help Topics. Added "Password Reset", "Personal Computer Issues", "Equipment Request", and "Business Critical Outage" to the Help Topics.
 </p>
 <br />
